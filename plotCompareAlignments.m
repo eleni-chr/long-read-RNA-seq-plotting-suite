@@ -2,7 +2,7 @@ function plotCompareAlignments
 %% Function written by Eleni Christoforidou in MATLAB R2019b
 
 %This function creates a plot comparing the number of reads that aligned at
-%least once ty two different aligners.
+%least once by two different aligners.
 
 %The custom functions "qname_analysis" and "countqnames" must be ran beforehand to
 %generate the variables used in the current function.
