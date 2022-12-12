@@ -2,7 +2,7 @@
 
 Note that some functions may need modification to suit your particular data types or file types.
 
-### Contents
+## Contents
 
 - A. Functions to inspect data, extract data, and prepare for plotting
 - B. Functions to plot the data
