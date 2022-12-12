@@ -1,5 +1,12 @@
 # long-read-RNA-seq-plotting-suite
 
+Note that some functions may need modification to suit your particular data types or file types.
+
+### Contents
+
+- A. Functions to inspect data, extract data, and prepare for plotting
+- B. Functions to plot the data
+
 ## A. Functions to inspect data, extract data, and prepare for plotting
 
 **fastq_headers**
