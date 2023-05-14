@@ -1,5 +1,7 @@
 # long-read-RNA-seq-plotting-suite
 
+[![DOI](https://zenodo.org/badge/537046068.svg)](https://zenodo.org/badge/latestdoi/537046068)
+
 Note that some functions may need modification to suit your particular data types or file types.
 
 ## Contents
